@@ -1,2 +1,3 @@
 # DiccoWorlds
-# <button>Click</button>
+# <button type="button" onclick="document.getElementById('demo').innerHTML = 'Date'">Click</button>
+# <p id="demo"></p>
